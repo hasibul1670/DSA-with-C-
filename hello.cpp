@@ -4,11 +4,14 @@ int main() {
 
 #ifndef Online
     freopen("input.txt", "r", stdin);
-    freopen("output.txt", "w", stdout); 
+    freopen("output.txt", "w", stdout);
 #endif
 
+    for (int i = 1;i < 500;i++) {
+        cout << "Hasib!" << endl;
 
+    }
 
- return 0;
+    return 0;
 
 }
