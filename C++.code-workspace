@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"random": "cpp",
+			"chrono": "cpp",
+			"typeindex": "cpp",
+			"typeinfo": "cpp"
+		}
+	}
+}
